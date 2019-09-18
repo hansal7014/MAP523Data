@@ -1,0 +1,19 @@
+{
+  "student": "Hansal Bachkaniwala",
+  "version": "1.0.0",
+  "timestamp": "2019-09-18T20:07:14+00:00",
+  "count": 10,
+  "data": 
+  [
+    { "id": 1, "courseCode": "BCI433", "courseName": "IBM Business Computing" },
+    { "id": 2, "courseCode": "EAC397", "courseName": "Business Report Writing" },
+    { "id": 3, "courseCode": "CUL245", "courseName": "Introduction to Art History" },
+    { "id": 4, "courseCode": "MAP523", "courseName": "Mobile App Development - iOS" },
+    { "id": 5, "courseCode": "MAP523", "courseName": "Mobile App Development - Android" },
+    { "id": 6, "courseCode": "WEB422", "courseName": "Web Programming for Apps and Services" },
+    { "id": 7, "courseCode": "OSD600", "courseName": "Open Source Development" },
+    { "id": 8, "courseCode": "PRJ566", "courseName": "Project Planning and Management" },
+    { "id": 9, "courseCode": "JAC444", "courseName": "Intro to Java C++" },
+    { "id": 10, "courseCode": "SYS466", "courseName": "Analysis and Design Using OO Models" }
+  ]
+}
